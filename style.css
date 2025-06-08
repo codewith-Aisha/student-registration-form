@@ -1,0 +1,35 @@
+h1{
+    color: rgb(248, 52, 84);
+    text-align: center;
+}
+section{
+    color: rgba(243, 10, 181, 0.922);
+}
+body{
+    background-image:url(bg\ image.jpg) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center top;
+    image-rendering: auto;
+}
+
+.submit{
+    background-color: rgb(21, 234, 21);
+    color: white;
+    cursor: pointer;
+
+}
+.reset{
+    background-color: rgb(232, 67, 67);
+    color: white;
+    cursor: pointer;
+
+}
+
+footer{
+    color: rgb(119, 59, 239);
+}
+
+form{
+    text-align: center;
+}
